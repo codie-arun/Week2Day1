@@ -23,7 +23,7 @@ class Kalimark{
 	
 	int money;
 	
-	public void makeKalimarkCola{
+	public void makeKalimarkCola(){
 		new Cola() {
 			
 			@Override
@@ -66,7 +66,7 @@ class Pepsi{
 		//Cola cola = new Kalimark().getColaTrojan();
 		//Cola cola = new Kalimark().new CampaCola();
 		new Kalimark().makeKalimarkCola();
-		cola.makeCola();
+		//cola.makeCola();
 		
 		System.out.println("pepsi sells the campa cola in pepsi bottle....\"");
 	}
